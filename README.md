@@ -1,5 +1,7 @@
 # BA
 
+I would recommend to start at the foundational level first and then jump to management skills and go to the middle reporting and data analytics
+
 --------------------------
 Business Analyst Foundational skills
 
